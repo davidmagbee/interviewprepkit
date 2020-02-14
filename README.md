@@ -1,4 +1,4 @@
-# Django Checklist
+# Interview Prep Kit (Junior Developer)
 
 ## Django Setup
 
