@@ -14,3 +14,8 @@ If you're reading this, then you're likely looking for a repository of links and
 ## Behavioral Questions
 
 ## Branding yourself
+
+
+## Content to organize
+https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
+https://gist.github.com/sujinleeme/ec1f50bb0b6081a0adcf9dd84f4e6271
