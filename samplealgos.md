@@ -6,14 +6,14 @@ All of these questions are somewhat vague, make sure to clearly state your assum
 ## Easy
 - [ ] Given an array or list, return the largest difference between any two consecutive numbers. 
 - [ ] Print a staircase of size n using hashtags and spaces.
-`Example:
+``Example:
 for n = 6:
      #
     ##
    ###
   ####
  #####
-######`
+######``
 
 - [ ] The largest Palindrome that is the product of 2 2-digit numbers is 9009 (multiply 91 times 99). What is the largest Palindrome that is a product of 2 3-digit numbers?
 - [ ] Write a function that takes an input array ex:([], [Peter, John]). Return a string that lists all the people who are in the array. (i.e. "No one is in the array.", "Peter and John are in the array.")
