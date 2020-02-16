@@ -32,5 +32,5 @@ Tier 3:
 
 
 ## Content to organize
-
+https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
 https://gist.github.com/sujinleeme/ec1f50bb0b6081a0adcf9dd84f4e6271
