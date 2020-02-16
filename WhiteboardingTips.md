@@ -11,7 +11,7 @@
 - [ ] There should be a fair amount of back and forth conversation in this part as you ask questions and they answer. 
 #### Pseudocode Section (Second quarter or third of your allotted time if you have a time limit):
 - [ ] This section is optional, but recommended if the problem is complicated or has multiple steps - this can be a checklist for you to make sure you do what the problem asks correctly. 
-- [ ] Feel free to write anything in this section that could help you including what sort of methods you might want to use and a verbal version of what you'd be doing in the problem. 
+- [ ] Feel free to write anything in this section that could help you including what sort of methods you might want to use.
 - [ ] If the interviewer is able to, ask for some sort of confirmation about your psuedocode. This doesn't have to be anything crazy, just something like - "does that sound reasonable to you?". If your interviewer cannot talk or answer your questions, don't worry and move to the next section. 
 - [ ] Make sure that while you are writing your psuedocode down you are verbalizing the WHY of what you're doing as well as the WHAT. If you're able to, you might want to acknowledge other possible solutions in order to show the interviewer your breadth of knowledge. 
 #### Code Section (This should be the bulk of your time):
