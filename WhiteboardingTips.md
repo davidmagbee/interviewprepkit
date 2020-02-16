@@ -7,7 +7,7 @@
 - [ ] Suss out any assumptions. It's better to ask than assume! Bonus points for asking if you can use certain techniques like Recursion, etc.
 - [ ] Make sure to ask questions about potential edge cases (what happens if the input number is negative), what the input would be and look like (is it always a string? will it ever be a decimal, etc.) 
 - [ ] If possible, ask for a sample input and output. 
-- [ ] If you'd like create your own input and output to demonstrate you understand the problem and how it works. 
+- [ ] If you'd like create your own input and output to demonstrate you understand the problem and how it works. Confirm this input and output with the interviewer. 
 - [ ] There should be a fair amount of back and forth conversation in this part as you ask questions and they answer. 
 #### Pseudocode Section (Second quarter or third of your allotted time if you have a time limit):
 - [ ] This section is optional, but recommended if the problem is complicated or has multiple steps - this can be a checklist for you to make sure you do what the problem asks correctly. 
