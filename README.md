@@ -27,8 +27,16 @@ Tier 3:
 ## Computer Science
 
 ## Take Home Assignment
+Here is a sample take-home assignment. Keep in mind that beyond the actual assignment requirements and suggestions, you should look at the Take Home Assignment Tips guide in the repo. 
+
+- [ ] Social Tables: https://github.com/socialtables/2019-drawing-app-challenge
 
 ## General Technical Conceptual Questions
+These questions are meant to test your knowledge on a variety of concepts and technologies. For our purposes, you should be able to answer the CLI, Git, Most of Misc (some are Ruby/Rails specific), Express & Mongoose, APIs, RWD, CSS2, Databases, Javascript, OOJS, HTML & CSS, HTTP and React. 
+
+- [ ] General Assembly Slips: http://ga-dc.github.io/slips/
+
+Answers coming soon. 
 
 ## Behavioral Questions
 
