@@ -7,7 +7,7 @@ If you're reading this, then you're likely looking for a repository of links and
 If you'd like to contribute to a running list of interview questions visit this google form: https://forms.gle/Gax1bHpg865UZFHu6. The questions will periodically be added here: https://docs.google.com/spreadsheets/d/1dwkypxvyTAsj1s01hqSBZaNymG5M0DegwLbp5J_Wml4/edit#gid=204942409. 
 
 ## Whiteboarding
-I'd suggest you take a look at the whiteboarding.md file for any tips or tricks. In general, you should expect any of the simpler algorithms or "brain-teaser" questions to be fair game here. For a list of "brain-teaser" questions look here. 
+I'd suggest you take a look at the whiteboarding.md file for any tips or tricks. In general, you should expect any of the simpler algorithms or "brain-teaser" questions to be fair game here. For a list of "brain-teaser" questions look here[a relative link](BrainTeasers.md) 
 
 ## Algorithms/Code Challenges
 If you're looking for algorithms, checkout the samplealgos.md file in the repository. To practice as realistically as possible, try not to run your code at all while you are solving the problem. You might not be able to do this during an interview. Here are some excellent and FREE links for different algorithms. Coming Soon: Suggested Algos Links.
