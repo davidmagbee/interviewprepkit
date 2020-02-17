@@ -15,13 +15,13 @@
 - [ ] If the interviewer is able to, ask for some sort of confirmation about your psuedocode. This doesn't have to be anything crazy, just something like - "does that sound reasonable to you?". If your interviewer cannot talk or answer your questions, don't worry and move to the next section. 
 - [ ] Make sure that while you are writing your psuedocode down you are verbalizing the WHY of what you're doing as well as the WHAT. If you're able to, you might want to acknowledge other possible solutions in order to show the interviewer your breadth of knowledge. This is an excellent place to really show your depth of knowledge when it comes to solving problems. 
 #### Code Section (This should be the bulk of your time):
-- [ ] Always make sure to be verbalizing what you're doing here. It may be a fair amount of reptition from your pseudocode sectiom, but it's good to reinforce your knowledge. 
-- [ ] Remember to write any part of the code however small. Don't forget to put your function name and any parameters as well as your return statements. Syntax counts!
-- [ ] Give yourself plenty of space to write your code cleanly and with some basic formatting so it's readable.
+- [ ] Always make sure to be verbalizing what you're doing here. It may be a fair amount of reptition from your pseudocode sectiom, but it's good to reinforce your knowledge. If you can't talk and write at the same time, take a break after major sections and explain what you just did (after you write a loop, after an if statement). 
+- [ ] Remember to write any part of the code however small. Don't forget to put your function name and any parameters as well as your return statements. Syntax counts! If you don't remember the syntax of something, ask if you're able to. If you can't get any help, it might be best to try another method that you're confident with the syntax. 
+- [ ] Give yourself plenty of space to write your code cleanly and with some basic formatting so it's readable. Indent as much as possible. 
 - [ ] After any initial passes through your code, feel free to refactor if wanted or necessary. 
 #### BEFORE YOU END:
 - [ ] Reread the problem and make sure that you followed all directions. Don't be afraid to ask any last clarifying questions here before you say you're done. 
-- [ ] You might consider even checking a possible input and manually going through the function and seeing if it would produce the output you expect. 
+- [ ] It's highly recommended that you check a possible input and manually going through the function and seeing if it would produce the output you expect. 
 - [ ] Revisit any edge cases you found before and modify your code to make sure that they are accounted for. 
-- [ ] Summarize your work
+- [ ] Summarize your work verbally. 
 - [ ] Ask for feedback (even if they can't provide any) - this shows that you're eager to learn and grow. 
