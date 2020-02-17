@@ -58,3 +58,4 @@ This is a bonus section for those who would like to improve their personal brand
 ## Content to organize
 https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
 https://gist.github.com/sujinleeme/ec1f50bb0b6081a0adcf9dd84f4e6271
+https://zellwk.com/blog/think/
