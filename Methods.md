@@ -16,6 +16,7 @@ text = "ABCD"
 x = text.split("")
 print(x)
 `
+
 Output = ['A','B','C','D']
 </details>
 
@@ -26,5 +27,6 @@ let text = "Welcome To The Jungle"
 let x = text.split(" ")
 console.log(x)
 `
+  
 Output = ['Welcome','To','The','Jungle']
 </details>
