@@ -3,6 +3,9 @@
 ## What This Is / User's Guide
 If you're reading this, then you're likely looking for a repository of links and advice for preparing for the various parts of a technical interview for a junior developer or similar job. This repository is designed to be filled with useful links for various aspects of the job process. This content will be built up more as time goes on, and you can help that. If you'd like to add anything, please let me know and I will add it in. 
 
+## Submit Real Questions!
+If you'd like to contribute to a running list of interview questions visit this google form: https://forms.gle/Gax1bHpg865UZFHu6. The questions will periodically be added here: https://docs.google.com/spreadsheets/d/1dwkypxvyTAsj1s01hqSBZaNymG5M0DegwLbp5J_Wml4/edit#gid=204942409. 
+
 ## Whiteboarding
 I'd suggest you take a look at the whiteboarding.md file for any tips or tricks. In general, you should expect any of the simpler algorithms or "brain-teaser" questions to be fair game here. For a list of "brain-teaser" questions look here. 
 
@@ -10,11 +13,10 @@ I'd suggest you take a look at the whiteboarding.md file for any tips or tricks.
 If you're looking for algorithms, checkout the samplealgos.md file in the repository. To practice as realistically as possible, try not to run your code at all while you are solving the problem. You might not be able to do this during an interview. Here are some excellent and FREE links for different algorithms. Coming Soon: Suggested Algos Links.
 
 Tier 1: 
+- [ ] WDI NYC Algorithm Repository (Courtesy: Joe Keohan): https://git.generalassemb.ly/wdi-nyc-algorithms/whiteboarding-meetup/blob/master/algorithms.md - a list of several common algorithms as well as their respective solutions (sometimes multiple in different methods)
 - [ ] Code Wars: https://www.codewars.com/ (make sure to focus on Katas between 8kyu and 6kyu. You are welcome to go above that, but they will become increasingly more difficult.)
 - [ ] Project Euler: https://projecteuler.net/ (mathematical problems that force you to write clean and optimized code to solve them)
 - [ ] Hacker Rank: https://www.hackerrank.com/ (similar to code wars, they even have an interview preparation kit that has different challenges that focus on different concepts: https://www.hackerrank.com/interview/interview-preparation-kit)
-- [ ] WDI NYC Algorithm Repository (Courtesy: Joe Keohan): https://git.generalassemb.ly/wdi-nyc-algorithms/whiteboarding-meetup/blob/master/algorithms.md - a list of several common algorithms as well as their respective solutions (sometimes multiple in different methods)
-
 
 Tier 2:
 - [ ] Leet Code: https://leetcode.com/
@@ -35,6 +37,8 @@ Here is a sample take-home assignment. Keep in mind that beyond the actual assig
 These questions are meant to test your knowledge on a variety of concepts and technologies. For our purposes, you should be able to answer the CLI, Git, Most of Misc (some are Ruby/Rails specific), Express & Mongoose, APIs, RWD, CSS2, Databases, Javascript, OOJS, HTML & CSS, HTTP and React. 
 
 - [ ] General Assembly Slips (Courtesy General Assembly): http://ga-dc.github.io/slips/
+- [ ] Front-End Trivia (Courtesy Ali Spittel) - https://docs.google.com/spreadsheets/d/1fi-SkXMeCrzOxMRGjLSDG7lvyLXhRdqTyh9XqwB5iQY/edit#gid=0 - I'd recommend making a copy of this file and then hiding the answers column to go through the list. You can then take your own notes. Some of these don't have answers. I'll work on filling those in at some point. 
+- [ ] Back-End Trivia (Courtesy Ali Spittel) - https://docs.google.com/spreadsheets/d/1sXXqHApcuvmMNUtrsXAjD4h34y4rL8KG9Qe9d463WDc/edit#gid=0 - I'd recommend making a copy of this file and then hiding the answers column to go through the list. You can then take your own notes. Some of these don't have answers. I'll work on filling those in at some point. 
 
 Answers coming soon. 
 
