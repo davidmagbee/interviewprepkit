@@ -29,18 +29,25 @@ Tier 3:
 ## Take Home Assignment
 Here is a sample take-home assignment. Keep in mind that beyond the actual assignment requirements and suggestions, you should look at the Take Home Assignment Tips guide in the repo. 
 
-- [ ] Social Tables: https://github.com/socialtables/2019-drawing-app-challenge
+- [ ] Social Tables (Courtesy Social Tables via Ali Spittel): https://github.com/socialtables/2019-drawing-app-challenge
 
 ## General Technical Conceptual Questions
 These questions are meant to test your knowledge on a variety of concepts and technologies. For our purposes, you should be able to answer the CLI, Git, Most of Misc (some are Ruby/Rails specific), Express & Mongoose, APIs, RWD, CSS2, Databases, Javascript, OOJS, HTML & CSS, HTTP and React. 
 
-- [ ] General Assembly Slips: http://ga-dc.github.io/slips/
+- [ ] General Assembly Slips (Courtesy General Assembly): http://ga-dc.github.io/slips/
 
 Answers coming soon. 
 
 ## Behavioral Questions
 
 ## Branding yourself
+This is a bonus section for those who would like to improve their personal brand. The best way to get jobs is to network and a great way to network is to interact with existing content on the web (LinkedIn, Medium, etc.) as well as posting your own. Here are a few links that can help you get started with Blogging and Content Creation. Also checkout this for tips on blogging. 
+
+- [ ] The Ladybug Podcast: Blogging 101 (Courtesy Ali Spittel, The Ladybug Podcast): https://www.ladybug.dev/blogging-101
+
+- [ ] Blogging as a Developer (Courtesy Ali Spittel, Dev.to): https://dev.to/aspittel/blogging-as-a-developer--5h0m
+
+- [ ] My Blog Post Workflow: from Topic fo Publication (Courtesy Ali Spittel, Dev.to): https://dev.to/aspittel/my-blog-post-workflow-from-topic-to-publication-4n78
 
 
 ## Content to organize
