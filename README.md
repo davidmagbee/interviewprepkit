@@ -37,8 +37,6 @@ Here is a sample take-home assignment. Keep in mind that beyond the actual assig
 These questions are meant to test your knowledge on a variety of concepts and technologies. For our purposes, you should be able to answer the CLI, Git, Most of Misc (some are Ruby/Rails specific), Express & Mongoose, APIs, RWD, CSS2, Databases, Javascript, OOJS, HTML & CSS, HTTP and React. 
 
 - [ ] General Assembly Slips (Courtesy General Assembly): http://ga-dc.github.io/slips/
-- [ ] Front-End Trivia (Courtesy Ali Spittel) - https://docs.google.com/spreadsheets/d/1fi-SkXMeCrzOxMRGjLSDG7lvyLXhRdqTyh9XqwB5iQY/edit#gid=0 - I'd recommend making a copy of this file and then hiding the answers column to go through the list. You can then take your own notes. Some of these don't have answers. I'll work on filling those in at some point. 
-- [ ] Back-End Trivia (Courtesy Ali Spittel) - https://docs.google.com/spreadsheets/d/1sXXqHApcuvmMNUtrsXAjD4h34y4rL8KG9Qe9d463WDc/edit#gid=0 - I'd recommend making a copy of this file and then hiding the answers column to go through the list. You can then take your own notes. Some of these don't have answers. I'll work on filling those in at some point. 
 
 Answers coming soon. 
 
