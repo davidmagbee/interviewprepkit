@@ -25,8 +25,8 @@ Tier 2:
 Tier 3: 
 - [ ] Algos from Class: https://docs.google.com/spreadsheets/d/1AvWr9caOK_-9yzRvltOrWBA5fmEyym0MsGxryV8iLu0/edit#gid=421986618 Courtesy: Joe Keohan (Algorithms we've already solved in class - great for reference if you want to revisit one for some reason or look at how something is done recursively. You can also complete the ones that you may not have gotten to or solo program the ones you pair programmed!)
 
-
 ## Computer Science
+Coming Soon.
 
 ## Take Home Assignment
 Here is a sample take-home assignment. Keep in mind that beyond the actual assignment requirements and suggestions, you should look at the Take Home Assignment Tips guide in the repo. 
@@ -43,6 +43,7 @@ These questions are meant to test your knowledge on a variety of concepts and te
 Answers coming soon. 
 
 ## Behavioral Questions
+Coming Soon. 
 
 ## Branding yourself
 This is a bonus section for those who would like to improve their personal brand. The best way to get jobs is to network and a great way to network is to interact with existing content on the web (LinkedIn, Medium, etc.) as well as posting your own. Here are a few links that can help you get started with Blogging and Content Creation. Also checkout this for tips on blogging. 
