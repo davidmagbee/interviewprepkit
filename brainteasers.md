@@ -11,6 +11,7 @@
   <summary><strong>Click to reveal...</strong></summary> 
 The United States has an approximate population of 327 M. You may want to ask about how many major cities there are in the US. How many total cities there are and do some averaging/normal bell curve estimations. 
 </details>
+
 - [ ] How many windows would you estimate are in the city of Chicago. 
 - [ ] Given 2 sand timers (1 that counts 7 minutes, the other counts 11 minutes) - how would you use these two to calculate 15 minutes of time.
 - [ ] If you had an infinite supply of water and a 5-liter and 3-lite bucket, how would you measure exactly 4 liters of water. The buckets don't have intermediate scales. 
