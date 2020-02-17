@@ -7,7 +7,7 @@ If you're reading this, then you're likely looking for a repository of links and
 I'd suggest you take a look at the whiteboarding.md file for any tips or tricks. In general, you should expect any of the simpler algorithms or "brain-teaser" questions to be fair game here. For a list of "brain-teaser" questions look here. 
 
 ## Algorithms/Code Challenges
-If you're looking for algorithms, checkout the samplealgos.md file in the repository. Here are some excellent and FREE links for different algorithms. Coming Soon: Suggested Algos Links.
+If you're looking for algorithms, checkout the samplealgos.md file in the repository. To practice as realistically as possible, try not to run your code at all while you are solving the problem. You might not be able to do this during an interview. Here are some excellent and FREE links for different algorithms. Coming Soon: Suggested Algos Links.
 
 Tier 1: 
 - [ ] Code Wars: https://www.codewars.com/ (make sure to focus on Katas between 8kyu and 6kyu. You are welcome to go above that, but they will become increasingly more difficult.)
@@ -25,6 +25,8 @@ Tier 3:
 
 
 ## Computer Science
+
+## Take Home Assignment
 
 ## General Technical Conceptual Questions
 
