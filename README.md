@@ -13,6 +13,8 @@ Tier 1:
 - [ ] Code Wars: https://www.codewars.com/ (make sure to focus on Katas between 8kyu and 6kyu. You are welcome to go above that, but they will become increasingly more difficult.)
 - [ ] Project Euler: https://projecteuler.net/ (mathematical problems that force you to write clean and optimized code to solve them)
 - [ ] Hacker Rank: https://www.hackerrank.com/ (similar to code wars, they even have an interview preparation kit that has different challenges that focus on different concepts: https://www.hackerrank.com/interview/interview-preparation-kit)
+- [ ] WDI NYC Algorithm Repository (Courtesy: Joe Keohan): https://git.generalassemb.ly/wdi-nyc-algorithms/whiteboarding-meetup/blob/master/algorithms.md - a list of several common algorithms as well as their respective solutions (sometimes multiple in different methods)
+
 
 Tier 2:
 - [ ] Leet Code: https://leetcode.com/
