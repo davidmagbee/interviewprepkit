@@ -9,7 +9,7 @@
 - [ ] If you're making an assumption - make sure to clearly articulate that. Feel free to ask questions to narrow down the answers too. For example, for a question about participants in a tournament, how many people are on a given team?
 
 ## Questions:
-- [ ] The smallest city in the United States is in Utah and has 1 resident. The largest city in the United States is New York City with approximately 8,550,405 residents. Give this information, how would you esimate the population of the United States?
+- [ ] The smallest city in the United States is in Utah and has 1 resident. The largest city in the United States is New York City with approximately 8,550,405 residents. Given this information, how would you esimate the population of the United States?
 <details>
   <summary><strong>Potential Solution</strong></summary> 
 The United States has an approximate population of 327 M. You may want to ask about how many major cities there are in the US. How many total cities there are and do some averaging/normal bell curve estimations. Remember this question is more about your process rather than the actual answer. 
