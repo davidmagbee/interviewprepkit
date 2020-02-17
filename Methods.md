@@ -11,22 +11,22 @@ Split will take a string and split the string into individual indexes based on a
 ###### Examples:
 <details>
   <summary><strong>Python</strong></summary> 
-`
+```
 text = "ABCD"
 x = text.split("")
 print(x)
-`
+
 
 Output = ['A','B','C','D']
 </details>
 
 <details>
   <summary><strong>JavaScript</strong></summary> 
-`
+```
 let text = "Welcome To The Jungle"
 let x = text.split(" ")
 console.log(x)
-`
+
   
 Output = ['Welcome','To','The','Jungle']
 </details>
