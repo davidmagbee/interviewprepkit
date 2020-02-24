@@ -7,10 +7,10 @@ If you're reading this, then you're likely looking for a repository of links and
 If you'd like to contribute to a running list of interview questions visit this google form: https://forms.gle/Gax1bHpg865UZFHu6. The questions will periodically be added here: https://docs.google.com/spreadsheets/d/1dwkypxvyTAsj1s01hqSBZaNymG5M0DegwLbp5J_Wml4/edit#gid=204942409. 
 
 ## Whiteboarding
-I'd suggest you take a look at the whiteboarding.md file for any tips or tricks. In general, you should expect any of the simpler algorithms or "brain-teaser" questions to be fair game here. For a list of "brain-teaser" questions look here[a relative link](BrainTeasers.md) 
+I'd suggest you take a look at the [Whiteboarding Tips](WhiteboardingTips.md) file for any tips or tricks. In general, you should expect any of the simpler algorithms or "brain-teaser" questions to be fair game here. For a list of "brain-teaser" questions look here for [Brain Teasers](BrainTeasers.md) 
 
 ## Algorithms/Code Challenges
-If you're looking for algorithms, checkout the samplealgos.md file in the repository. To practice as realistically as possible, try not to run your code at all while you are solving the problem. You might not be able to do this during an interview. Here are some excellent and FREE links for different algorithms. Coming Soon: Suggested Algos Links.
+If you're looking for algorithms, checkout the samplealgos.md file in the repository. To practice as realistically as possible, try not to run your code at all while you are solving the problem. You might not be able to do this during an interview. Here are some excellent and FREE links for different algorithms. Some suggested algos:[Sample Algos](SampleAlgos.md) 
 
 Tier 1: 
 - [ ] WDI NYC Algorithm Repository (Courtesy: Joe Keohan): https://git.generalassemb.ly/wdi-nyc-algorithms/whiteboarding-meetup/blob/master/algorithms.md - a list of several common algorithms as well as their respective solutions (sometimes multiple in different methods)
@@ -25,11 +25,14 @@ Tier 2:
 Tier 3: 
 - [ ] Algos from Class: https://docs.google.com/spreadsheets/d/1AvWr9caOK_-9yzRvltOrWBA5fmEyym0MsGxryV8iLu0/edit#gid=421986618 Courtesy: Joe Keohan (Algorithms we've already solved in class - great for reference if you want to revisit one for some reason or look at how something is done recursively. You can also complete the ones that you may not have gotten to or solo program the ones you pair programmed!)
 
+Other Resources:
+- [ ] How To Think Like A Programmer: https://zellwk.com/blog/think/
+
 ## Computer Science
 Coming Soon.
 
 ## Take Home Assignment
-Here is a sample take-home assignment. Keep in mind that beyond the actual assignment requirements and suggestions, you should look at the Take Home Assignment Tips guide in the repo. 
+Here is a sample take-home assignment. Keep in mind that beyond the actual assignment requirements and suggestions, you should look at the Take Home Assignment Tips (Coming Soon) guide in the repo. 
 
 - [ ] Social Tables (Courtesy Social Tables via Ali Spittel): https://github.com/socialtables/2019-drawing-app-challenge
 
@@ -38,7 +41,7 @@ These questions are meant to test your knowledge on a variety of concepts and te
 
 - [ ] General Assembly Slips (Courtesy General Assembly): http://ga-dc.github.io/slips/
 
-Answers coming soon. 
+Answers coming soon. More questions coming soon. 
 
 ## Behavioral Questions
 Coming Soon. 
@@ -56,4 +59,3 @@ This is a bonus section for those who would like to improve their personal brand
 ## Content to organize
 https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
 https://gist.github.com/sujinleeme/ec1f50bb0b6081a0adcf9dd84f4e6271
-https://zellwk.com/blog/think/
