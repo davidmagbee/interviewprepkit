@@ -25,6 +25,9 @@ Tier 2:
 Tier 3: 
 - [ ] Algos from Class: https://docs.google.com/spreadsheets/d/1AvWr9caOK_-9yzRvltOrWBA5fmEyym0MsGxryV8iLu0/edit#gid=421986618 Courtesy: Joe Keohan (Algorithms we've already solved in class - great for reference if you want to revisit one for some reason or look at how something is done recursively. You can also complete the ones that you may not have gotten to or solo program the ones you pair programmed!)
 
+PAID:
+- [  ] Algo Expert: https://www.algoexpert.io/ - has hints and explanation videos if you think that's helpful. 
+
 Other Resources:
 - [ ] How To Think Like A Programmer: https://zellwk.com/blog/think/
 
