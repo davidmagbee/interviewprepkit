@@ -23,6 +23,11 @@ Example Input: [[8,2,22,97,38,15,0,40,0,75],[49,19,99,40,17,81,18,57,60,87],[81,
 - [ ] In the fibonacci sequence, find the sum of all even values under 4,000,000. 
 - [ ] Write a function that converts a given integer into binary and then returns the longest length of consecutive 1's in the sequence. (Ex: input: 60 => 111100 in binary => output: 4)
 - [ ] Write a function that takes in an array of n numbers and for each index finds the prout of each integer in the array other than the current index. (Ex: input: [1,2,3,4] => ouput: [24,12,8,6])
+- [ ] What is the value of the first triangle number to have over five hundred divisors? A triangle number is a number that can be arranged into a triangle. For example 3 can place 1 on the first row and 2 on the second row. 6 can place 1 on the first row, 2 on the second, 3 on the third. 
 
 
 ## Hard
+- [ ] Given 2 randomized poker hands (5 cards per hand), determine the winner of the two hands. Assume there are 6 mechanisms to rank a winning hand (for simplicity): From lowest to highest: High Card, One Pair, Two Pair, Three of a Kind, Four of a Kind, Flush/Straight (treat all flushes the same way - I know poker doesn’t actually work this way, but to make this simple and not have to deal with straights, flushes, etc. this is easier.). If two players have the same ranked hands then the rank made up of the highest value wins; for example, a pair of eights beats a pair of fives (see example 1 below). But if two ranks tie, for example, both players have a pair of queens, then highest cards in each hand are compared (see example 4 below); if the highest cards tie then the next highest cards are compared, and so on.
+
+- [ ] Question: What is the longest Collatz Sequence for a number that starts under 1 million? Once the chain starts the terms are allowed to go above one million. Collatz Sequence: The following iterative sequence is defined for the set of positive integers: n → n/2 (n is even) n → 3n + 1 (n is odd) Using the rule above and starting with 13, we generate the following sequence: 13 → 40 → 20 → 10 → 5 → 16 → 8 → 4 → 2 → 1
+
