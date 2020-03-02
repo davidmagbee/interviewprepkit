@@ -8,7 +8,7 @@
 - [ ] Make sure you're verbalizing your thought process. Take a minute to break down the problem and then talk through what you're thinking.
 - [ ] If you're making an assumption - make sure to clearly articulate that. Feel free to ask questions to narrow down the answers too. For example, for a question about participants in a tournament, how many people are on a given team?
 
-## Questions:
+## Regular Brain Teasers:
 - [ ] The smallest city in the United States is in Utah and has 1 resident. The largest city in the United States is New York City with approximately 8,550,405 residents. Given this information, how would you esimate the population of the United States?
 <details>
   <summary><strong>Potential Solution</strong></summary> 
@@ -121,6 +121,38 @@ The trick here is realize that lightbulbs get hot after being in use. So first f
 <details>
   <summary><strong>Potential Solution</strong></summary> 
 Take a small sample from 500 of the bottles and take a sip. If it tastes bitter it's one of those if not it's the other 500. Then take samples from 250 of the 500 that tasted bitter and keep halving until you find the exact bottle. DONE!
+</details>
+
+- [ ] You have 1000 bottles of tequila and a party that starts in 1 hour. One of these bottles is poisoned. You also have recruited 10 poison sensing rats (they’re somehow resistant to the poison, but turn blue when they drink it). Each rat can drink any amount of wine, but they take exactly 1 hour to manifest any changes. How do you determine what bottle is poisoned? 
+<details>
+  <summary><strong>Potential Solution</strong></summary> 
+You need to recruit a unique pattern of rats to drink each bottle, so you can trace that pattern back to the correct bottle. In this case, 10 luckily is just enough to use Binary counting to determine the right bottle. As an example, for the first bottle, none of the rats drink it, so if no rats turn blue, it's the poisoned one. For the second bottle have only the first rat drink it. For the third, have only the second rat drink it. For the third have the first and second rat drink it. If you use this and continue down using binary, you could hypothetically test 1024 tequilas. 
+</details>
+
+## Coding Brain Teasers
+
+- [ ] Print All Numbers between 1 and N. You may not use any loops (while, for, etc.).
+<details>
+  <summary><strong>Potential Solution</strong></summary> 
+This is a classic recursion example. You have to recursively print numbers. So in this case, you print a number and then pass in the next number to the function until you hit the N value. 
+</details>
+
+- [ ] Add 2 Numbers Without Using The Addition Operator
+<details>
+  <summary><strong>Potential Solution</strong></summary> 
+There's lots of ways to do this, here's a few: 1) Use subtraction a + b == a - -b, 2) double iterate: a = 2 b = 2; a-- b++: a = 1, b = 3; a-- b++: a = 0, b = 4.
+</details>
+
+- [ ] Implement power function without multiplcation and division operators. 
+<details>
+  <summary><strong>Potential Solution</strong></summary> 
+A lot of ways to do this again. If you want you can just use addition and subtraction as you need to. You can also just use recursion. 
+</details>
+
+- [ ] Swap the value of two variables without the use of a third variable.
+<details>
+  <summary><strong>Potential Solution</strong></summary> 
+a = 6 b = 10. b = a + b; a = b - a; b = b - a
 </details>
 
 ## Resources
