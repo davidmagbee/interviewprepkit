@@ -1,5 +1,5 @@
 # Whiteboarding Exercises
-
+The following tips are generic and based on the average whiteboarding problem. For some problems, keep in mind you might not really have the capability or time to do the problem. In scenarios like that, I highly recommend that you spend much more time on your pseudocode in order to build a path forward. If you only get halfway done coding, but have no path, it's a lot worse than having a path and having no code. You should also actively acknowledge when you don't know what you're doing - this is better than trying to BS your way through something. 
 ### Tips: 
 - [ ] Split the whiteboard into 3 major sections: Notes (a section to write details of the problem, any inputs or outputs, and edge cases, etc.)
 #### Notes Section (First quarter or third of your allotted time if you have a time limit):
